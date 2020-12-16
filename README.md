@@ -1,2 +1,2 @@
 # rainbow-bubble
-npx create-react-app my-app --template typescript
+一个基于React+Typescript的UI组件库
